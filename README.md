@@ -7,4 +7,8 @@ Python scripts and necessary parameter files can be found in NeoProcessor.zip
 
 Sample prescription inputs can be found in their individual zip files.
 
-Neo-Processor was designed for use with cut-to-length harvesting systems in the Klamath Basin and WILL NOT provide valid outputs for other harvest systems or regions without significant modifications.
+Neo-Processor was designed for use with tethered cut-to-length harvesting systems in the Klamath Basin and WILL NOT provide valid outputs for other harvest systems or regions without significant modifications.
+
+Changelog:
+
+8/26/17 - Updated RxEvaluator.py and NPDoc.pdf to reflect significant changes in cost modeling methodology.
