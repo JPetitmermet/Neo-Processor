@@ -12,4 +12,5 @@ Neo-Processor was designed for use with tethered cut-to-length harvesting system
 Changelog:
 
 8/26/17 - Updated RxEvaluator.py and NPDoc.pdf to reflect significant changes in cost modeling methodology.
+
 9/3/17 - Updated RxEvaluator.py to better reflect Eastside log scaling methods: 24' and 28' logs are now disabled by default and top diameter is now rounded for log pricing (where previously it was truncated). Updated NPDoc.pdf to reflect changes and correct an erroneous reference.
